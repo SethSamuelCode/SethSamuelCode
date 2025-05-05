@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Seth. 
+I am a full stack dev specialising in backend and deployment solutions.
 <!--
 **SethSamuelCode/SethSamuelCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
