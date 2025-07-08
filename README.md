@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-My name is Seth. 
-I am a full stack dev specializing in backend and deployment solutions.
-I develop mainly in Python and javascript but occasionally use C/C++ when doing embedded hobby projects. 
+Hey my name is Seth. 
+
+I am a full stack dev specializing in backend and deployment solutions.\
+I live in New Zealand.\
+I develop mainly in Python and javascript but occasionally use C/C++ when doing embedded hobby projects.\
 I also know docker and am in the process of learning k8s
+
+You can find me on: 
+
+* [Linkedin](https://www.linkedin.com/in/seth-samuel-80421ab9/)
 <!--
 **SethSamuelCode/SethSamuelCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
