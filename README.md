@@ -4,9 +4,11 @@ Hey my name is Seth.
 
 I am a full stack dev specializing in backend and deployment solutions.\
 I live in New Zealand.\
-I develop mainly in Python and javascript but occasionally use C/C++ when doing embedded hobby projects.\
+I develop mainly in Python and typescripr but occasionally use C/C++ when doing embedded hobby projects.\
 I also love working with AI and the the endless possibilities it brings\
 I also know docker and am in the process of learning k8s
+
+In my spare time i am working on an AI research platform similar to the deep research modes of openAi and perplexity.
 
 You can find me on: 
 
