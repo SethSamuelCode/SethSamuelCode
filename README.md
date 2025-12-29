@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | DevOps Enthusiast | AI Researcher
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seth-samuel-80421ab9/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seth-samuel-dev/)
 [![Website Badge](https://img.shields.io/badge/-Personal%20Git-black?style=flat&logo=git&logoColor=white)](https://git.sethsamuel.online)
 
 </div>
