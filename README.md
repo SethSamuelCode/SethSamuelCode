@@ -1,29 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-Hey my name is Seth. 
+# Hi there, I'm Seth 👋
 
-I am a full stack dev specializing in backend and deployment solutions.\
-I live in New Zealand.\
-I develop mainly in Python and typescripr but occasionally use C/C++ when doing embedded hobby projects.\
-I also love working with AI and the the endless possibilities it brings\
-I also know docker and am in the process of learning k8s
+### Full Stack Developer | DevOps Enthusiast | AI Researcher
 
-In my spare time i am working on an AI research platform similar to the deep research modes of openAi and perplexity.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seth-samuel-80421ab9/)
+[![Website Badge](https://img.shields.io/badge/-Personal%20Git-black?style=flat&logo=git&logoColor=white)](https://git.sethsamuel.online)
 
-You can find me on: 
+</div>
 
-* [Linkedin](https://www.linkedin.com/in/seth-samuel-80421ab9/)
-<!--
-**SethSamuelCode/SethSamuelCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a Full Stack Developer based in **New Zealand**, specializing in backend architecture and deployment solutions. Currently, in my spare time I am focused on building autonomous AI research platforms similar to Deep Research by OpenAI/Perplexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🔭 **Current Project:** Building `apiagents` and `arachne-ui` — an orchestrated AI research system.
+*   🌱 **Learning:** Deepening knowledge in **Kubernetes (K8s)** and scalable orchestration.
+*   💡 **Interests:** AI Agents, Self-hosting, and Embedded Systems (Arduino/C++).
+
+### 🛠️ Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
+| **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| **AI & Frameworks** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google%20gemini&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white) ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SethSamuelCode&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethSamuelCode&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
